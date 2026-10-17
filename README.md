@@ -396,3 +396,9 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
+
+<!-- fork-notice: start -->
+### Notice concerning this fork
+
+This repository is a fork of an upstream project. The original copyright, licenses and upstream maintainers' legal terms remain unchanged. See this fork's [Supplemental Disclaimer and Risk Notice](DISCLAIMER.md) concerning the fork maintainer's own contributions; it does not claim to bind upstream authors or override mandatory legal rights.
+<!-- fork-notice: end -->
